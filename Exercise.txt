@@ -1,0 +1,8 @@
+Hi Caroline, Rashmi and Yuliya
+
+Exercise is only a suggestion so feel free to change the topic of our 
+git conversation:)
+
+Let's try to use it to do version control on a word file.
+
+
