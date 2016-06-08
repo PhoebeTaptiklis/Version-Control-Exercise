@@ -5,4 +5,7 @@ git conversation:)
 
 Let's try to use it to do version control on a word file.
 
+Caroline; I don't know Rashmi and Yuliya's user names on git hub - can 
+you add their usernames to this doc and push it back:)
 
+P
